@@ -1,0 +1,23 @@
+{
+  "name": "14.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testykodilla/14.5_react_wizytowki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testykodilla/14.5_react_wizytowki/issues"
+  },
+  "homepage": "https://github.com/testykodilla/14.5_react_wizytowki#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
