@@ -23,6 +23,5 @@ var ContactForm = React.createClass({
             </button>
           </form>
         )
-      )
     },
   })
